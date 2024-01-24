@@ -8,17 +8,17 @@ PvZContentsCore::~PvZContentsCore()
 {
 }
 
-void PvZContentsCore::EngineStart()
+void PvZContentsCore::Start()
 {
 
 }
 
-void PvZContentsCore::EngineUpdate()
+void PvZContentsCore::Update()
 {
 
 }
 
-void PvZContentsCore::EngineEnd()
+void PvZContentsCore::End()
 {
 
 }
