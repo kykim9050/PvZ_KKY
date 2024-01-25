@@ -4,22 +4,22 @@
     <ClInclude Include="EngineDebug.h">
       <Filter>Debug</Filter>
     </ClInclude>
-    <ClInclude Include="EngineString.h">
-      <Filter>String</Filter>
-    </ClInclude>
     <ClInclude Include="EngineMath.h">
       <Filter>Math</Filter>
     </ClInclude>
     <ClInclude Include="FTransform.h">
       <Filter>Math</Filter>
     </ClInclude>
+    <ClInclude Include="EngineTime.h">
+      <Filter>Time</Filter>
+    </ClInclude>
+    <ClInclude Include="EngineString.h">
+      <Filter>String</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="EngineDebug.cpp">
       <Filter>Debug</Filter>
-    </ClCompile>
-    <ClCompile Include="EngineString.cpp">
-      <Filter>String</Filter>
     </ClCompile>
     <ClCompile Include="EngineMath.cpp">
       <Filter>Math</Filter>
@@ -27,16 +27,25 @@
     <ClCompile Include="FTransform.cpp">
       <Filter>Math</Filter>
     </ClCompile>
+    <ClCompile Include="EngineTime.cpp">
+      <Filter>Time</Filter>
+    </ClCompile>
+    <ClCompile Include="EngineString.cpp">
+      <Filter>String</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Debug">
       <UniqueIdentifier>{ab78d8f8-2605-4dae-83b1-5aaf93ff9845}</UniqueIdentifier>
     </Filter>
-    <Filter Include="String">
-      <UniqueIdentifier>{031f4087-e9c1-45ae-afe8-457e44270b73}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Math">
       <UniqueIdentifier>{9d5a0871-a942-467c-84f2-273371d04441}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Time">
+      <UniqueIdentifier>{df9bf87b-6e36-4c60-8aab-652d590a1b8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="String">
+      <UniqueIdentifier>{7112d897-7579-49b4-835c-c247fa770cf2}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
