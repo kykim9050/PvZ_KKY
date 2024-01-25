@@ -3,9 +3,11 @@
   <ItemGroup>
     <ClInclude Include="PvZContentsCore.h" />
     <ClInclude Include="TitleLevel.h" />
+    <ClInclude Include="Plant.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PvZContentsCore.cpp" />
     <ClCompile Include="TitleLevel.cpp" />
+    <ClCompile Include="Plant.cpp" />
   </ItemGroup>
 </Project>

@@ -162,6 +162,10 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Plant.h">
+      <SubType>
+      </SubType>
+    </ClInclude>
     <ClInclude Include="PvZContentsCore.h">
       <SubType>
       </SubType>
@@ -172,6 +176,10 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Plant.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
     <ClCompile Include="PvZContentsCore.cpp">
       <SubType>
       </SubType>
