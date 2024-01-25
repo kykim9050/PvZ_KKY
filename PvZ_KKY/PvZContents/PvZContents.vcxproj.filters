@@ -4,10 +4,12 @@
     <ClInclude Include="PvZContentsCore.h" />
     <ClInclude Include="TitleLevel.h" />
     <ClInclude Include="Plant.h" />
+    <ClInclude Include="Zombie.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PvZContentsCore.cpp" />
     <ClCompile Include="TitleLevel.cpp" />
     <ClCompile Include="Plant.cpp" />
+    <ClCompile Include="Zombie.cpp" />
   </ItemGroup>
 </Project>
