@@ -162,6 +162,10 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Map.h">
+      <SubType>
+      </SubType>
+    </ClInclude>
     <ClInclude Include="Plant.h">
       <SubType>
       </SubType>
@@ -180,6 +184,10 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Map.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
     <ClCompile Include="Plant.cpp">
       <SubType>
       </SubType>
